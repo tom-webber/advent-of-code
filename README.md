@@ -1,8 +1,8 @@
 # Advent of Code ⭐️
 [![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=10&color=yellow)]()
-[![codecov](https://codecov.io/gh/marcelblijleven/adventofcode/branch/master/graph/badge.svg?token=jZ2TgfyltM)](https://codecov.io/gh/marcelblijleven/adventofcode)
-[![tests](https://github.com/marcelblijleven/adventofcode/actions/workflows/tests.yaml/badge.svg)](https://github.com/marcelblijleven/adventofcode)
-[![version](https://img.shields.io/github/v/release/marcelblijleven/adventofcode.svg)](https://github.com/marcelblijleven/adventofcode/releases)
+<!-- [![codecov](https://codecov.io/gh/tom-webber/advent-of-code/branch/master/graph/badge.svg?token=jZ2TgfyltM)](https://codecov.io/gh/tom-webber/advent-of-code)
+[![tests](https://github.com/tom-webber/advent-of-code/actions/workflows/tests.yaml/badge.svg)](https://github.com/tom-webber/advent-of-code)
+[![version](https://img.shields.io/github/v/release/tom-webber/advent-of-code.svg)](https://github.com/tom-webber/advent-of-code/releases) -->
 
 ![advent of code](./image_dark.svg#gh-dark-mode-only)
 ![advent of code](./image_light.svg#gh-light-mode-only)
@@ -263,7 +263,7 @@ Output:
 ```text
 (venv) [adventofcode] add-day 2015 14                                                                                                                                                                   master  ✗ ✭ ✱
 Creating solution day file for year 2015 day 14
-Wrote template to /Users/marcelblijleven/code/github.com/marcelblijleven/adventofcode/src/adventofcode/year_2015/day_14_2015.py
+Wrote template to /Users/marcelblijleven/code/github.com/tom-webber/advent-of-code/src/adventofcode/year_2015/day_14_2015.py
 Input data already exists for year 2015 day 14, skipping download
 ```
 
