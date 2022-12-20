@@ -1,5 +1,5 @@
 # 2022
-Solutions for 5 days in 2022 with a total of 10 stars collected
+Solutions for 6 days in 2022 with a total of 12 stars collected
 
 | day   | part one | part two |
 | :---: | :------: | :------: |
@@ -7,4 +7,5 @@ Solutions for 5 days in 2022 with a total of 10 stars collected
 | 02 | ⭐️ | ⭐️ |
 | 03 | ⭐️ | ⭐️ |
 | 04 | ⭐️ | ⭐️ |
+| 05 | ⭐️ | ⭐️ |
 | 06 | ⭐️ | ⭐️ |

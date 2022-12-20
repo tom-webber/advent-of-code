@@ -1,16 +1,15 @@
 import os
 import warnings
 
-
 from adventofcode.config import ROOT_DIR
 
 
-def get_input_for_day(year: int, day: int) -> list[str]:
+def get_input_for_day(year: int, day: int, **kwargs) -> list[str]:
     """
     Get the input for the year/day as list of strings
     """
     input_file = os.path.join(ROOT_DIR, "inputs", str(year), f"day_{day:02}.txt")
-    return _get_input(input_file)
+    return _get_input(input_file, **kwargs)
 
 
 def get_input_for_day_as_str(year: int, day: int) -> str:
@@ -32,12 +31,14 @@ def _read_lines(file_name) -> list[str]:
     return lines
 
 
-def _get_input(file_name) -> list[str]:
+def _get_input(file_name, strip: bool = True) -> list[str]:
     """
     Strips new lines from input file and returns it as list of string
     """
     lines = _read_lines(file_name)
-    return [line.strip() for line in lines]
+    if strip:
+        lines = [line.strip() for line in lines]
+    return lines
 
 
 def _read_file(file_name) -> str:

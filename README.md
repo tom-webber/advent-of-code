@@ -1,5 +1,5 @@
 # Advent of Code ⭐️
-[![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=10&color=yellow)]()
+[![Stars collected](https://shields.io/static/v1?label=stars%20collected&message=12&color=yellow)]()
 <!-- [![codecov](https://codecov.io/gh/tom-webber/advent-of-code/branch/master/graph/badge.svg?token=jZ2TgfyltM)](https://codecov.io/gh/tom-webber/advent-of-code)
 [![tests](https://github.com/tom-webber/advent-of-code/actions/workflows/tests.yaml/badge.svg)](https://github.com/tom-webber/advent-of-code)
 [![version](https://img.shields.io/github/v/release/tom-webber/advent-of-code.svg)](https://github.com/tom-webber/advent-of-code/releases) -->
@@ -39,6 +39,7 @@ Collection of my Advent of Code solutions in an overkill project setup 👻🎄.
 | 02 | ⭐️ | ⭐️ |
 | 03 | ⭐️ | ⭐️ |
 | 04 | ⭐️ | ⭐️ |
+| 05 | ⭐️ | ⭐️ |
 | 06 | ⭐️ | ⭐️ |
 
 </p>

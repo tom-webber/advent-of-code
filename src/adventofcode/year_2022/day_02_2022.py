@@ -36,7 +36,7 @@ def parse_input(data, part: int):
             my_condition = rps_key_2[my_item]
             condition_results = vs_score_key[my_condition]
             my_move = [item for item in condition_results if item[0] == opp_move][0][1]
-            print(my_move)
+            # print(my_move)
 
             move_pairs.append((opp_move, my_move))
 
@@ -66,7 +66,7 @@ def get_score(data, part: int):
 @register_solution(2022, 2, 1)
 def part_one(input_data: list[str]):
     input = input_data[:10]
-    print(parse_input(input, part=1))
+    # print(parse_input(input, part=1))
     answer = get_score(input_data, part=1)
     print(answer)
 
@@ -76,10 +76,10 @@ def part_one(input_data: list[str]):
     return answer
 
 
-# @register_solution(2022, 2, 2)
+@register_solution(2022, 2, 2)
 def part_two(input_data: list[str]):
     input = input_data[:10]
-    print(parse_input(input, part=2))
+    # print(parse_input(input, part=2))
     answer = get_score(input_data, part=2)
     print(answer)
 
